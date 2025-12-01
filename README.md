@@ -7,7 +7,7 @@
 
 ## **☕ About me**
 <a href="#">
-    <img align="left" width="120" src="https://media.giphy.com/media/Q8OPrlvICQKmymPbqg/giphy.gif" alt="Coding Anime" style="margin-right: 20px;">
+    <img align="left" width="120" src="./banner/me.png" alt="Coding Anime" style="margin-right: 20px;">
 </a>
 
 <p>

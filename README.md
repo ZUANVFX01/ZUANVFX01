@@ -32,12 +32,6 @@ My passion lies in understanding system structures (Kernel, GPU, FPS logic) and 
 </p>
 <br clear="left"/>
 
-## **📊 Github Stats**
-<p align="center">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ZUANVFX01&show_icons=true&theme=react&hide_border=true&bg_color=0D1117"/>
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZUANVFX01&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
-</p>
-
 ## **🧋 Cutie Counter**
 <p align="center">
     <img src="https://moe-counter.glitch.me/get/@zuan_unique_id?theme=rule34" alt="Zuan's cutie counter"/>

@@ -1,6 +1,6 @@
 ### Hi!👋 I'm Zuan
 <div align="center">
-  <img width="100%" src="./banner/banner.png" alt="Anime Header" style="object-fit: cover;">
+  <img width="100%" src="./banner/banner.webp" alt="Anime Header" style="object-fit: cover;">
 </div>
 
 <br>

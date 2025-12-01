@@ -1,41 +1,38 @@
 <div align="center">
-
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm95bmE4bW8wZDN3ZnB5aGk5b3B6Z3Z5ZmZ5bm95bmE4bW8wZDN3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L2QlXqU00dUqY/giphy.gif" width="100%" style="border-radius: 10px;"/>
-
-  # Hi there, I'm Zuan! 👋
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3R4cW16eXJ6eXJ6eXJ6eXJ6eXJ6eXJ6eXJ6eXJ6eXJ6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jbp6x2/giphy.gif" width="100%" height="200" style="object-fit: cover;" alt="Anime Header"/>
   
-  **Android Developer | Open Source Contributor**
+  <h1>Hi there, I'm <a href="#">Zuan</a>! 👋</h1>
+  <p><b>Android Enthusiast | Open Source Contributor | AI-Assisted Developer</b></p>
 
-  ---
-  
-  <p align="center">
-    <a href="https://github.com/zuanvfxproject2">
-      <img src="https://img.shields.io/badge/Follow-Me-ff69b4?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-  </p>
-
+  <img src="https://img.shields.io/badge/Device-Android-green?style=for-the-badge&logo=android" />
+  <img src="https://img.shields.io/badge/IDE-AndroidIDE-blue?style=for-the-badge&logo=androidstudio" />
+  <img src="https://img.shields.io/badge/Powered%20By-Gemini%20%7C%20DeepSeek-orange?style=for-the-badge&logo=google-gemini" />
 </div>
 
-### 🚀 About Me
-- 🔭 I’m currently working on **Zuan Kernel Manager (ZKM)**
-- 🌱 I’m currently learning **Jetpack Compose & Kernel Tuning**
-- 💬 Ask me about **Android Development & System Tweaks**
-- ⚡ Fun fact: *I code better when listening to anime OSTs.*
+---
 
-### 🛠️ Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" />
-</p>
+### 🧐 About Me
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zuanvfx01&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuanvfx01&layout=compact&theme=tokyonight" width="48%" />
-</p>
+I may not write every line of code manually, but I **architect** logic and structure. I specialize in understanding complex Android system structures (Kernel, GPU, FPS logic) and bringing them to life using modern AI tools.
+
+* 📱 **Development Environment:** purely on Mobile using **AndroidIDE**.
+* 🧠 **My Role:** Project Manager, Logic Architect, & Lead Tester.
+* 🤖 **My Tools:** Gemini 3 Pro, DeepSeek, ChatGPT.
+* 🔭 **Current Project:** **Zuan Kernel Manager (ZKM)** - A universal, feature-rich kernel manager based on powerful open-source foundations.
+
+> *"I don't just code; I fix, I restructure, and I build using the power of AI."*
+---
+
+### 🛠 Tech Stack & Tools
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=kotlin,android,git,github,md" alt="Tech Stack" />
+</div>
+
+---
 
 <div align="center">
-  <sub>Don't forget to ⭐ star my projects!</sub>
+  <small><i>"Technology is best when it brings people together." - Matt Mullenweg</i></small>
+  <br>
+  <small>© 2024 Zuan. Licensed under GNU GPL v3.</small>
 </div>
